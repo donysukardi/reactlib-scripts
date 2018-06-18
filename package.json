@@ -1,5 +1,5 @@
 {
-  "name": "reactlib-scripts",
+  "name": "@donysukardi/reactlib-scripts",
   "version": "0.0.0-semantically-released",
   "main": "dist/index.js",
   "repository": "https://github.com/donysukardi/reactlib-scripts.git",
